@@ -1,4 +1,4 @@
-![Mustafa Ali Çetinkaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaAliCetinkaya&show_icons=true&theme=radical)
+![ilyar YAĞAŞPURT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyarygs&show_icons=true&theme=radical)
 
 # Cydeo-BootCamp
 
